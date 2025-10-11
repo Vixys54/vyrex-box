@@ -28,7 +28,7 @@
   <strong>Upload Simples com Arrastar e Soltar</strong>
 </p>
 <p align="center">
-  <img src="./assets/screenshots/upload.png" alt="Funcionalidade de Upload" width="80%">
+  <img src="https://files.catbox.moe/su4pwh.png" alt="Funcionalidade de Upload" width="80%">
 </p>
 
 <p align="center">
