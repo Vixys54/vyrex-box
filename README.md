@@ -35,13 +35,13 @@
   <strong>Acesso Fácil pelo Celular</strong>
 </p>
 <p align="center">
-  <img src="https://files.catbox.moe/s05uk1.png" alt="Acesso via Mobile" width="40%">
-  <img src="https://files.catbox.moe/unj6ww.jpg" alt="upload progresso" width="40%">
-  <img src="https://files.catbox.moe/qc39ep.jpg" alt="Acesso via Mobile" width="40%">
-  <img src="https://files.catbox.moe/vak4u6.jpg" alt="Acesso via Mobile" width="40%">
-  <img src="https://files.catbox.moe/egekt4.jpg" alt="Acesso via Mobile" width="40%">
-  <img src="https://files.catbox.moe/jlgjdo.jpg" alt="Acesso via Mobile" width="40%">
-  <img src="https://files.catbox.moe/r7u5e3.png" alt="Acesso via Mobile" width="40%">
+  <img src="https://files.catbox.moe/s05uk1.png" alt="Acesso via Mobile" width="20%">
+  <img src="https://files.catbox.moe/unj6ww.jpg" alt="upload progresso" width="20%">
+  <img src="https://files.catbox.moe/qc39ep.jpg" alt="Acesso via Mobile" width="20%">
+  <img src="https://files.catbox.moe/vak4u6.jpg" alt="Acesso via Mobile" width="20%">
+  <img src="https://files.catbox.moe/egekt4.jpg" alt="Acesso via Mobile" width="20%">
+  <img src="https://files.catbox.moe/jlgjdo.jpg" alt="Acesso via Mobile" width="20%">
+  <img src="https://files.catbox.moe/r7u5e3.png" alt="Acesso via Mobile" width="20%">
 </p>
 
 
