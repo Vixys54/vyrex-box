@@ -67,5 +67,5 @@ Siga os passos abaixo para colocar o Vyrex-Box no ar.
 ### Clonar o Repositório
 
 ```bash
-git clone https://github.com/Vbys54/vyrex-box.git
+git clone https://github.com/Vixys54/vyrex-box.git
 cd vyrex-box
