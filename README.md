@@ -21,7 +21,7 @@
   <strong>Interface Web Intuitiva</strong>
 </p>
 <p align="center">
-  <img src="./assets/screenshots/home.png" alt="Tela Principal do Vyrex-Box" width="80%">
+  <img src="https://files.catbox.moe/wq07zv.png" alt="Tela Principal do Vyrex-Box" width="80%">
 </p>
 
 <p align="center">
