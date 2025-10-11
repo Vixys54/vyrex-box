@@ -36,11 +36,9 @@
 </p>
 <p align="center">
   <img src="./assets/screenshots/mobile.png" alt="Acesso via Mobile" width="40%">
+  <img src="https://files.catbox.moe/1vp15j.png" alt="upload progresso" width="40%">
 </p>
 
-<p align="center">
- <img src="https://files.catbox.moe/1vp15j.png" alt="upload progresso" width="40%">
-</p>
 
 ---
 
