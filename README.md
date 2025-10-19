@@ -80,5 +80,5 @@ cd vyrex-box
 ### Clique duas vezes em iniciar.bat no windows ou entre no CMD
 
 ```bash
-python servidor.py
+python servidor.py```
 
