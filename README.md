@@ -76,9 +76,11 @@ Siga os passos abaixo para colocar o Vyrex-Box no ar.
 ```bash
 git clone https://github.com/Vixys54/vyrex-box.git
 cd vyrex-box
+```
 
 ### Clique duas vezes em iniciar.bat no windows ou entre no CMD
 
 ```bash
-python servidor.py```
+python servidor.py
+```
 
